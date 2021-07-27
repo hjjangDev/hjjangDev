@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Heejoo Jang👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjjangdev&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjjangdev&show_icons=true&theme=buefy)
+
 
 <!--
-**hjjangDev/hjjangDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hjjangdev/hjjangdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjjangdev&count_bg=%23DF7F7F&title_bg=%23010000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
